@@ -1,5 +1,5 @@
 # Web_Scrapping
-Web scrapped 'amazon.in' using BeautifulSoup library
+Web scrapped an e-commerce website using BeautifulSoup library
 
 # Objective
 Collecting electronic gadgets data from amazon which are usually used by a software employee or a student like: 
