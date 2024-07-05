@@ -2,11 +2,10 @@
 Web scrapped an e-commerce website using BeautifulSoup library
 
 # Objective
-Collecting electronic gadgets data from amazon which are usually used by a software employee or a student like: 
-laptop, tablets, smartphone, smartwatch, headphones, earphones, earbuds considering the offer deals during this diwali season.
+Collect comprehensive data on electronic gadgets commonly used by software employees or students, such as laptops, tablets, smartphones, smartwatches, headphones, earphones, and earbuds, during the Diwali season to especially emphasize the offer deals.
 
 # Dataset Description
-collecting our required data from the webpage:
+Collecting our required data from the webpage:
 
 **name**: Title of the product
 
